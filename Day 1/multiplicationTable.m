@@ -4,4 +4,5 @@
 function mul = multiplicationTable(n)
 a = 1:n;
 mul = a'*a;
+% This is just a comment
 end
